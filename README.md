@@ -24,6 +24,13 @@ This project is mainly designed for survey managment, user can create the survey
 
 <br><br>
 
+## Packages Used
+- npm i lodash (utility logic)
+- npm i typescript-express-starter (starter project setup)
+
+
+<br><br>
+
 ## Development specifications
 - OS - Mac
 - Editor - VS Code 1.17
